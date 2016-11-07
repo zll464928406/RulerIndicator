@@ -7,7 +7,7 @@
 
 >**效果图**
 
-- <img src="test.gif" weight=40>
+- <img src="test.gif" height="400">
 
 >**使用方法**
 
