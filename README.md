@@ -7,11 +7,12 @@
 
 >**效果图**
 
-- <img src="test.gif">
+- <img src="test.gif" weight=40>
 
 >**使用方法**
 
-- 1.导入头文件
+- 1.拖入文件/导入头文件
+    - 拖入RulerView的.h和.m文件
     - #import "RulerView.h"
 - 2.添加视图
 
